@@ -1,7 +1,7 @@
 # Professional Media Downloader
 # Author: Umesh Rathore
 # Description: High-quality media downloader for NVDA with 1000+ sites support
-# Version: 2.0
+# Version: 1.10
 
 import addonHandler
 addonHandler.initTranslation()
