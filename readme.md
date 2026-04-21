@@ -1,6 +1,6 @@
 # Professional Media Downloader #
 * Author: Umesh Rathore
-* Version: 1.0
+* Version: 2.0
 
 The Professional Media Downloader is a high-performance, accessible tool designed for NVDA users to download audio and video content from over 1,000 streaming platforms including YouTube, Facebook, Instagram, and more.
 
